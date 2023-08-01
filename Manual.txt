@@ -1,0 +1,30 @@
+Saudações, sou GhostVoltz e Este é o guia para usar esta ferramenta .. Meu presente para você :)
+
+Você precisaria do Python 2.7+. Você pode obtê-lo nos links na internet como sua primeira consulta do Google.
+
+Os módulos que você precisa são BeautifulSoup, bs4, socks, socks5, pysocks ... para instalar --> No seu terminal:
+
+pip2 install BeautifulSoup
+
+caso contrário, você receberá a mensagem de erro "você precisa instalar: bs4" (Precisa do -> pip2 install bs4 )
+
+O próximo módulo que você precisa é:
+
+pip2 install requests
+
+caso contrário, você receberá a mensagem de erro "você precisa instalar: requests"
+
+último mas não menos importante, o último módulo:
+
+pip2 install socks
+pip2 install socks5
+pip2 install pysocks
+
+caso contrário, você receberá a mensagem de erro "socks"
+
+Se você tiver todos os módulos, tente reiniciar a ferramenta .. comando "python2 GhostVoltz.py" se você não receber nenhum erro, ele será executado e você estará pronto para colocar qualquer merda offline <3
+
+Link para Python 2.7+ " https://www.python.org/download/releases/2.7/ "
+
+Nós somos anônimos, somos legião, não perdoamos, não esquecemos .. NOS ESPERE!
+
